@@ -1,0 +1,42 @@
+# Local files and folders
+# NONE SO FAR
+
+# User-level environment files
+.env
+.python-version
+pyproject.toml
+ruff.toml
+.ruff.toml
+.sourcery.yaml
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
