@@ -1,5 +1,5 @@
 # Local files and folders
-# NONE SO FAR
+semantic-kernel-testing/database/*
 
 # User-level environment files
 .env
